@@ -16,7 +16,8 @@ This project focuses on predicting the price of used cars based on key features 
 -->Price: The price of the car (target variable)
 
 
-*Workflow*
+*Workflow*:
+
 -->Data Cleaning & Preprocessing: Handling missing or inconsistent data (e.g., fixing missing values in 'year' or 'price'). Converting categorical data (like 'fuel_type' and 'company') into numerical representations. Standardizing and normalizing numerical features for better model performance.
 
 -->Exploratory Data Analysis (EDA): Visualizing relationships between features and the target variable. Checking for multicollinearity and feature importance to optimize model inputs.
