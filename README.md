@@ -4,20 +4,32 @@ This project focuses on predicting the price of used cars based on key features 
 **Dataset:** The dataset contains the following columns:
 
 -->Name: The name or model of the car
+
 -->Company: The manufacturer or brand of the car
+
 -->Year: The manufacturing year of the car
+
 -->Kms Driven: Total kilometers the car has been driven
+
 -->Fuel Type: Type of fuel used (e.g., Petrol, Diesel, CNG, etc.)
+
 -->Price: The price of the car (target variable)
+
 
 *Workflow*
 -->Data Cleaning & Preprocessing: Handling missing or inconsistent data (e.g., fixing missing values in 'year' or 'price'). Converting categorical data (like 'fuel_type' and 'company') into numerical representations. Standardizing and normalizing numerical features for better model performance.
+
 -->Exploratory Data Analysis (EDA): Visualizing relationships between features and the target variable. Checking for multicollinearity and feature importance to optimize model inputs.
+
 -->Feature Engineering: Creating new features based on existing ones (e.g., car age derived from ‘year’). Encoding categorical variables and scaling numerical features.
+
 -->Model Building: Training various machine learning models such as:
                                                                   Linear Regression
+                                                                  
                                                                   Decision Trees
+                                                                  
                                                                   Random Forest
+                                                                  
                                                                   Gradient Boosting
 Comparing models to find the best one based on performance metrics.
 
