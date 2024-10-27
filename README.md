@@ -50,6 +50,38 @@ Hyperparameter tuning to improve performance.
 
 -->Identification of the most influential features for price prediction.
 
+**Technologies Used:**
+
+-->Programming Language: Python
+
+-->Libraries:
+
+##Pandas: For data manipulation and cleaning
+
+##NumPy: For numerical computations
+
+##Scikit-learn: For implementing machine learning algorithms and model evaluation
+
+##Matplotlib & Seaborn: For data visualization and exploratory data analysis
+
+**Installation:**
+
+      -->Clone the repository: git clone https://github.com/yourusername/Car_Price_Prediction.git
+
+      -->Navigate to the project directory: cd Car_Price_Prediction
+
+      -->Install the required packages: pip install -r requirements.txt
+
+
+** Usage**
+
+Load the dataset and run the notebook (Car_Price_Prediction.ipynb) to execute the code for data preprocessing, model training, and evaluation.
+
+
+-->Explore different models and their performance metrics to understand which model works best for predicting car prices.
+
+
+
 
 **Future Improvements**
 
