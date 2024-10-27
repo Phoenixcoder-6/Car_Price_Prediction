@@ -88,5 +88,7 @@ Load the dataset and run the notebook (Car_Price_Prediction.ipynb) to execute th
 Adding more features like car condition, transmission type, or owner history for even more accurate predictions.
 Testing more advanced models like Neural Networks or XGBoost.
 
-**Conclusion**
+
+**Conclusion:**
+
 This project demonstrates the application of machine learning techniques for price prediction in the used car market. It showcases the entire process from data cleaning and EDA to model building and evaluation. The resulting model can help individuals estimate the fair price of a used car based on historical data.
