@@ -24,6 +24,7 @@ This project focuses on predicting the price of used cars based on key features 
 -->Feature Engineering: Creating new features based on existing ones (e.g., car age derived from ‘year’). Encoding categorical variables and scaling numerical features.
 
 -->Model Building: Training various machine learning models such as:
+
                                                                   Linear Regression
                                                                   
                                                                   Decision Trees
@@ -35,14 +36,19 @@ Comparing models to find the best one based on performance metrics.
 
 
 **Model Evaluation:** Evaluating models using metrics like:
+
 --> R² Score: To determine how well the model explains the variance.
+
 --> Mean Squared Error (MSE): To measure prediction accuracy.
+
 Hyperparameter tuning to improve performance.
 
 **Results & Insights**
 
 -->Insights into how factors like car age, brand, and kilometers driven affect the resale price.
+
 -->Identification of the most influential features for price prediction.
+
 
 **Future Improvements**
 
