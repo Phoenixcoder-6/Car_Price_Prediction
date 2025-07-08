@@ -92,3 +92,8 @@ Testing more advanced models like Neural Networks or XGBoost.
 **Conclusion:**
 
 This project demonstrates the application of machine learning techniques for price prediction in the used car market. It showcases the entire process from data cleaning and EDA to model building and evaluation. The resulting model can help individuals estimate the fair price of a used car based on historical data.
+.
+.
+.
+.
+
